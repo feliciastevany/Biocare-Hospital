@@ -58,3 +58,63 @@ C:\Users\felic\source\repos\ALP rumah sakit\ALP rumah sakit\obj\Debug\ALP_rumah_
 C:\Users\felic\source\repos\ALP rumah sakit\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_Nota.resources
 C:\Users\felic\source\repos\ALP rumah sakit\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_Obat.resources
 C:\Users\felic\source\repos\ALP rumah sakit\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_Check.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\ALP rumah sakit.exe.config
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\ALP rumah sakit.exe
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\ALP rumah sakit.pdb
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\MySql.Data.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\RestSharp.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Buffers.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.CodeDom.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Data.Odbc.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Data.OleDb.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Data.SqlClient.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Drawing.Common.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.IO.Packaging.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.IO.Ports.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Memory.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Security.AccessControl.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Security.Permissions.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP rumah sakit.csproj.AssemblyReference.cache
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP rumah sakit.csproj.SuggestedBindingRedirects.cache
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_AvRoom.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_Bill.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_Check.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_Function.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_InsDoct.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_InsNurse.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_InsRmv.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_Login.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_Nota.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_Obat.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_Pasien.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_Progress.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_Room.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form1.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_default.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Form_History.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP_rumah_sakit.Properties.Resources.resources
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP rumah sakit.csproj.GenerateResource.cache
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP rumah sakit.csproj.CoreCompileInputs.cache
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP rumah sakit.csproj.Fody.CopyLocal.cache
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP rumah sakit.csproj.CopyComplete
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP rumah sakit.exe
+C:\Users\felic\OneDrive\Documents\GitHub\Biocare-Hospital\ALP rumah sakit\obj\Debug\ALP rumah sakit.pdb
