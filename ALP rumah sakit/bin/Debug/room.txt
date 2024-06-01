@@ -1,0 +1,1 @@
+/image/room/ICU.jpg,/image/room/ISO.png,/image/room/PALLIATIVE.jpg,/image/room/PO.jpg,/image/room/STANDARD.jpg,/image/room/VIP.jpg

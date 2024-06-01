@@ -1,0 +1,1 @@
+/image/default/ha.jpg,/image/default/hi.jpg,/image/default/hu.jpg,/image/default/he.jpg,/image/default/ho.jpg
